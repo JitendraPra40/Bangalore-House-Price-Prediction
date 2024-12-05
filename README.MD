@@ -1,4 +1,4 @@
-Here’s a sample **README.md** file for your "Bangalore House Price Prediction" project:
+Here’s a sample **README.md** file for my "Bangalore House Price Prediction" project:
 
 ---
 
