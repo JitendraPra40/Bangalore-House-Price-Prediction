@@ -102,7 +102,7 @@ Ensure the following are installed:
 ---
 
 ## 🤝 Contributors  
-- **Your Name** - Developer and Machine Learning Engineer.  
+- **Jitendra Prajapati** - Developer and Machine Learning Engineer.  
 
 ---
 
