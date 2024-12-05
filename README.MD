@@ -4,7 +4,7 @@ Here’s a sample **README.md** file for your "Bangalore House Price Prediction"
 
 # Bangalore House Price Prediction  
 
-![Project Banner](img/home.jpg)
+![Project Banner](./img/home.png)
 
 ## 🏠 About the Project  
 This project is a web-based application that predicts the price of houses in Bangalore based on user inputs such as area, BHK, bathrooms, and location. It uses a **Linear Regression model** with an accuracy score of **84%**. The front-end is built with **HTML, CSS, and JavaScript**, while the back-end utilizes **Python** and **Flask**.
@@ -13,10 +13,10 @@ This project is a web-based application that predicts the price of houses in Ban
 
 ## 📸 Screenshots  
 ### 1. Home Page  
-![Home Page](img/1.jpg)  
+![Home Page](./img/1.png)  
 
 ### 2. Prediction Result  
-![Prediction Result](img/2.jpg)  
+![Prediction Result](./img/2.png)  
 
 ---
 
