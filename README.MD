@@ -113,7 +113,7 @@ Ensure the following are installed:
 
 ---
 
-## if using nginx 
+## If using nginx 
 - make Changes in file path:  nginx-1.27.3 > conf > nginx.conf
 -access_log  logs/host.access.log  main;
 
