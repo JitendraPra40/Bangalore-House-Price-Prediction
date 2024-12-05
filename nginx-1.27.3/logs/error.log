@@ -1,0 +1,1 @@
+2024/12/05 18:22:03 [error] 15116#3052: *1 CreateFile() "C:\Users\jiten\Downloads\nginx-1.27.3/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
