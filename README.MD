@@ -1,4 +1,4 @@
-Here’s a sample **README.md** file for your "Bangalore House Price Prediction" project:
+Here’s a sample **README.md** file for my "Bangalore House Price Prediction" project:
 
 ---
 
@@ -113,13 +113,13 @@ Ensure the following are installed:
 
 ---
 
-## if using nginx 
+## 📖 If using nginx 
 - make Changes in file path:  nginx-1.27.3 > conf > nginx.conf
-#access_log  logs/host.access.log  main;
+-access_log  logs/host.access.log  main;
 
         location / {
             root   "replace the address with "app.html" address";
             index  index.html index.htm app.html;
         }
 - use nginx code in .js file
-"# Bangalore-House-Price-Prediction" 
+
