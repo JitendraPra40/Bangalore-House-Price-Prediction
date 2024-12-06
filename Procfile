@@ -1,1 +1,1 @@
-web: python Bangalore-House-Price-Prediction/server/server.py
+web: python server/server.py
